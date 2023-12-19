@@ -47,7 +47,7 @@
 }
 
 .media-image-2 {
-  background-image: url("/img/backgrounds/img-01.jpg");
+  background-image: url("img/backgrounds/img-01.jpg");
 }
 
 .slide-image-1 {
@@ -75,11 +75,11 @@
 }
 
 .menu-image-1 {
-  background-image: url("/img/backgrounds/img-02.jpg");
+  background-image: url("img/backgrounds/img-02.jpg");
 }
 
 .media-image-about {
-  background-image: url("/img/backgrounds/img-03.jpg");
+  background-image: url("img/backgrounds/img-03.jpg");
 }
 
 .media-image-portfolio {
@@ -87,7 +87,7 @@
 }
 
 .media-image-contact {
-  background-image: url("/img/backgrounds/img-04.jpg");
+  background-image: url("img/backgrounds/img-04.jpg");
 }
 
 .showreel-image-1 {
