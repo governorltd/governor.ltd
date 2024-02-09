@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://governor.ltd/sitemap.xml
