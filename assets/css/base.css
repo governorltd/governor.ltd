@@ -6081,6 +6081,10 @@ body .ui-tooltip {
 /*----------------------------------------*/
 /*  5.1 blog
 /*----------------------------------------*/
+.blog.section-space img {
+  max-height: 474px!important;
+}
+
 .blog .mb-minus-60 {
   margin-bottom: -60px;
 }
