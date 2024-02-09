@@ -1851,7 +1851,7 @@ textarea {
 .backtotop-wrap {
   position: fixed;
   bottom: 30px;
-  right: 30px;
+  right: 6em;
   height: 46px;
   overflow: hidden;
   width: 46px;
