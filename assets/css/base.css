@@ -594,6 +594,11 @@ textarea {
 /*---------------------------------
     1.7 common
 ---------------------------------*/
+.pcb__badge.is-visible {
+  background: var(--rs-theme-primary)!important;
+
+}
+
 .fix {
   overflow: hidden;
 }
@@ -11060,6 +11065,9 @@ body .ui-tooltip {
     padding-left: 15px;
     padding-right: 15px;
   }
+}
+.latest-gallery .section__title {
+  color: var(--rs-common-white);
 }
 .latest-gallery__active .swiper-slide {
   max-width: 410px;
