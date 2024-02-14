@@ -7,6 +7,7 @@
         ========================================*/
 	$(window).on('load', function (event) {
 		$('#preloader').delay(1000).fadeOut(500);
+        $('body').css('overflow', 'initial');
 	});
 
 
